@@ -16,7 +16,7 @@ A classe `TheLookCleaner` possui o método de limpeza e formatação de preços:
 
 ## 🛠️ Como rodar o projeto localmente
 
-**Opção 1: Usando Python Virtual Environment**
-```bash
+**Usando Python Virtual Environment**
+```bash 
 source venv/bin/activate
 python -m pytest
